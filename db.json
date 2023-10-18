@@ -1,0 +1,1093 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Peace Lily Plant",
+      "productDescription": "The Peace Lily Plant, also known as Spathiphyllum, is a popular indoor plant that brings a touch of green to your home while also purifying the air. This tropical plant breaks down and neutralizes toxic gases like benzene, formaldehyde, and carbon monoxide. While it's one of the most popular indoor plants, it's also excellent for planting outdoors in warm climates. It's a low-maintenance plant that thrives in most indoor environments.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/GroPot.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/peace-lily-plant-32515294756996.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_8818_afd3420f-0b8c-410a-95f8-38394ed69ec2.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_9124_cfe94c59-66ce-45c0-93b1-e1049ad834a1.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/SensationPeaceLily.jpg"
+      ],
+      "price": 35.0,
+      "stock": 25,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "30 cm",
+        "height": "60 cm"
+      },
+      "advantages": ["Air purifying", "Low maintenance", "Pet friendly"],
+      "sunlightPreference": "Low to medium light",
+      "careInstructions": {
+        "tips": "The Peace Lily Plant prefers low to medium light but can tolerate low light conditions, making it an excellent choice for rooms with few windows. It's important to keep the soil moist but not waterlogged. To avoid overwatering, wait until the top inch of soil is dry before watering again. This plant prefers a humid environment and temperatures between 65-80°F. Brown leaf tips may indicate that the plant is too dry or exposed to cold drafts."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "I love my Peace Lily! It's so easy to care for and it really brightens up my room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "This plant is beautiful and really improves the air quality in my home."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "The Peace Lily is one of my favorite plants. It's so easy to care for and looks great in any room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "I'm new to gardening and this plant was a great choice for me. It's very forgiving and looks beautiful."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "I've had my Peace Lily for a year now and it's still going strong. I would definitely recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "productName": "Sansevieria Superba Green - Snake Plant",
+      "productDescription": "The Sansevieria Superba Green, also known as the Snake Plant, is a popular indoor plant known for its hardiness and unique look. Native to West Africa, it's an excellent choice for indoor spaces because it tolerates low light and dry air. The Snake Plant has stiff, upright leaves that range from one to eight feet tall, depending on the variety. Its architectural nature makes it a natural choice for modern and contemporary interior designs.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/files/DSC_6288.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/DSC_6567.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/SansieveriaSuperbaGreenMed.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/DSC_6663.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/DSC_6488.jpg"
+      ],
+      "price": 40.0,
+      "stock": 30,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "35 cm",
+        "height": "70 cm"
+      },
+      "advantages": ["Air purifying", "Low maintenance", "Drought tolerant"],
+      "sunlightPreference": "Low to bright indirect light",
+      "careInstructions": {
+        "tips": "The Snake Plant is very forgiving and can survive in low light and drought conditions. It prefers dry soil, so it's important not to overwater it. Allow the soil to dry out completely between waterings, and reduce watering in the winter months. The Snake Plant can tolerate a wide range of temperatures, but prefers temperatures between 70-90°F. It's also resistant to pests."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "The Snake Plant is a great addition to my home. It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "I love my Snake Plant! It's very hardy and doesn't require much care."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "This plant is perfect for beginners like me. It's very forgiving and adds a nice touch of green to my home."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Snake Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Snake Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "productName": "Kalanchoe Plant - Yellow Gift Hamper",
+      "productDescription": "The Kalanchoe Plant - Yellow Gift Hamper is a delightful gift that brings a pop of color and nature into any space. The Kalanchoe is a genus of about 125 species of tropical, succulent flowering plants in the family Crassulaceae, mainly native to Madagascar and tropical Africa. Kalanchoe plants are often grown as ornamental houseplants because they are easy to care for and have vibrant, colorful flowers that bloom for several weeks. This gift hamper includes a beautiful yellow Kalanchoe plant.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/kalanchoe-plant-yellow-gift-hamper-32173767524484.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/kalanchoe-plant-yellow-gift-hamper-32173766606980.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/kalanchoe-plant-yellow-gift-hamper-32173766639748.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/kalanchoe-plant-yellow-gift-hamper-32173766672516.jpg"
+      ],
+      "price": 45.0,
+      "stock": 35,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "20 cm",
+        "height": "30 cm"
+      },
+      "advantages": [
+        "Colorful flowers",
+        "Easy to care for",
+        "Long blooming period"
+      ],
+      "sunlightPreference": "Bright indirect light",
+      "careInstructions": {
+        "tips": "The Kalanchoe plant prefers bright, indirect light and well-draining soil. It's important to let the soil surface dry out between waterings, and then water thoroughly until water comes out the drainage hole. Keep the plant in a well-ventilated area with temperatures between 60-75°F. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Kalanchoe Plant! The yellow flowers are so vibrant and beautiful."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Kalanchoe Plant for a few months now and it's still blooming. It's a great addition to my home."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Kalanchoe Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Kalanchoe Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+
+    {
+      "id": "4",
+      "productName": "Jade Plant Mini",
+      "productDescription": "The Jade Plant Mini is a small, compact succulent that is perfect for those who are new to gardening or have limited space. It's a hardy plant that requires minimal care, making it a great choice for beginners. The Jade Plant Mini has thick, shiny, dark green leaves that can store water for a long time. This plant is also known to bring good luck and prosperity, and is often used in feng shui.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/KrishPlanter-Ivory_320ead20-6a05-48b0-8695-6b6b48bb9012.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/jade-plant-mini-32515567091844.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_8810_95441264-c48d-408f-a2d7-3f943fff677d.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_9150_8b8015c5-2ef1-4db8-ad45-d90fb1879c01.jpg"
+      ],
+      "price": 15.0,
+      "stock": 40,
+      "category": ["Indoor", "Succulent"],
+      "dimensions": {
+        "diameter": "10 cm",
+        "height": "15 cm"
+      },
+      "advantages": ["Easy to care for", "Drought tolerant", "Compact size"],
+      "sunlightPreference": "Bright indirect light",
+      "careInstructions": {
+        "tips": "The Jade Plant Mini prefers bright, indirect light but can tolerate lower light conditions. It's important to allow the soil to dry out completely between waterings, as overwatering can lead to root rot. During the growing season, feed the plant once every two weeks with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Jade Plant Mini! It's the perfect size for my desk and requires very little care."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Jade Plant Mini for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great on my windowsill."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Jade Plant Mini. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Jade Plant Mini for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "productName": "Broken Heart Plant",
+      "productDescription": "The Broken Heart Plant, also known as the 'Dicentra spectabilis', is a unique and eye-catching plant. It's known for its heart-shaped flowers that hang down from arching stems, giving it its common name. This plant is a great addition to any garden or indoor space, adding a touch of whimsy and color. The Broken Heart Plant prefers cool, moist conditions and is perfect for shady areas.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/files/small-gropot-ivory-broken-heart-plant-32953867468932.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/BrokenHeart4Inch.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/broken-heart-plant-32517995757700.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_9153.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_8923.jpg"
+      ],
+      "price": 20.0,
+      "stock": 30,
+      "category": ["Indoor", "Outdoor"],
+      "dimensions": {
+        "diameter": "15 cm",
+        "height": "30 cm"
+      },
+      "advantages": ["Unique flowers", "Easy to care for", "Shade tolerant"],
+      "sunlightPreference": "Partial shade to full sun",
+      "careInstructions": {
+        "tips": "The Broken Heart Plant is easy to care for and requires minimal maintenance. It prefers well-drained soil and should be watered regularly, but be careful not to overwater as this can lead to root rot. During the growing season, feed the plant once a month with a balanced fertilizer."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Broken Heart Plant! The heart-shaped flowers are so unique and beautiful."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Broken Heart Plant for a few months now and it's still blooming. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my garden."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Broken Heart Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Broken Heart Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "productName": "Monstera Deliciosa Plant",
+      "productDescription": "The Monstera Deliciosa Plant, also known as the Swiss Cheese Plant, is a popular indoor plant known for its unique, perforated leaves. Native to the tropical forests of Central America, it's an excellent choice for indoor spaces because it tolerates low light and adds a touch of nature to any room. The Monstera Deliciosa Plant is a climbing plant that can grow up to 20 feet indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/monstera-deliciosa-plant-31793362370692.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/monstera-deliciosa-plant-31793362337924.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/monstera-deliciosa-plant-31793362272388.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/monstera-deliciosa-plant-31793362174084.jpg"
+      ],
+      "price": 50.0,
+      "stock": 20,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "30 cm",
+        "height": "80 cm"
+      },
+      "advantages": ["Unique foliage", "Air purifying", "Low maintenance"],
+      "sunlightPreference": "Bright indirect light",
+      "careInstructions": {
+        "tips": "The Monstera Deliciosa Plant prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Monstera Deliciosa Plant! The leaves are so unique and beautiful."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Monstera Deliciosa Plant for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Monstera Deliciosa Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Monstera Deliciosa Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "productName": "Areca Palm Plant",
+      "productDescription": "The Areca Palm Plant, also known as Dypsis lutescens, is a popular indoor plant known for its feathery fronds and dainty foliage. Native to Madagascar, it's an excellent choice for indoor spaces because it purifies the air and adds a touch of tropical elegance. The Areca Palm Plant is a clustering palm that can grow up to 20 feet tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/files/medium-gropot-ivory-areca-palm-plant-32515461578884.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/areca-palm-plant-32515461742724.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/ArecaPalm5Inch.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/areca-palm-plant-32515464233092.jpg"
+      ],
+      "price": 55.0,
+      "stock": 25,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "35 cm",
+        "height": "100 cm"
+      },
+      "advantages": ["Air purifying", "Easy to care for", "Attractive foliage"],
+      "sunlightPreference": "Bright indirect light",
+      "careInstructions": {
+        "tips": "'The Areca Palm Plant prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Areca Palm Plant! It's so lush and tropical."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Areca Palm Plant for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Areca Palm Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Areca Palm Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+
+    {
+      "id": "8",
+      "productName": "Lucky Bamboo Plant - 3 Layer",
+      "productDescription": "The Lucky Bamboo Plant - 3 Layer is a popular indoor plant known for bringing good luck and prosperity. It's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The plant has three layers of bamboo shoots tied together in a beautiful arrangement, making it a great gift or decor item.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/files/Aimage_3.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/Details_3d640a03-3403-48fd-92a5-b720e8a17745.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/45.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/Bamboo3layer.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/Humantouch_1.jpg"
+      ],
+      "price": 20.0,
+      "stock": 30,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "10 cm",
+        "height": "30 cm"
+      },
+      "advantages": [
+        "Brings good luck",
+        "Easy to care for",
+        "Low light tolerant"
+      ],
+      "sunlightPreference": "Low to medium light",
+      "careInstructions": {
+        "tips": "'The Lucky Bamboo Plant prefers bright, indirect light but can tolerate lower light conditions. It grows best in fresh water, which should be changed every two weeks. It's important not to overwater the plant as this can lead to root rot."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Lucky Bamboo Plant! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Lucky Bamboo Plant for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Lucky Bamboo Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Lucky Bamboo Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "productName": "Ficus Bonsai Plant",
+      "productDescription": "'The Ficus Bonsai Plant is a popular indoor plant known for its miniature size and beautiful foliage. Native to Southeast Asia, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Ficus Bonsai Plant is a small, compact tree that is perfect for those who are new to bonsai or have limited space.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/GroPot_d1273605-35ae-44f2-9a6c-2f6608d44ad5.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/14_58f04d9f-e9d7-4d97-adb6-e2794ebebf2c.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1445_68455d0d-f1b4-441f-8337-fa192a662924.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1453_5a8404e7-b851-433c-b90e-64113dafc15f.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1610_012bf31f-d902-4283-b463-4730b02e3842.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1786_bd7a297c-54c7-4f10-91ed-0ea096f96ab1.jpg"
+      ],
+      "price": 60.0,
+      "stock": 20,
+      "category": ["Indoor", "Bonsai"],
+      "dimensions": {
+        "diameter": "15 cm",
+        "height": "25 cm"
+      },
+      "advantages": ["Attractive foliage", "Easy to care for", "Compact size"],
+      "sunlightPreference": "Bright indirect light",
+      "careInstructions": {
+        "tips": "'The Ficus Bonsai Plant prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Ficus Bonsai Plant! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Ficus Bonsai Plant for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Ficus Bonsai Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Ficus Bonsai Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "productName": "Rubber Plant",
+      "productDescription": "The Rubber Plant, also known as Ficus elastica, is a popular indoor plant known for its large, glossy foliage and easy care. Native to Southeast Asia, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Rubber Plant is a robust plant that can grow up to 10 feet tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/GroPot_997d008c-0bd8-4ec4-8540-498d4c9338f3.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/4_743889d7-0877-4221-ac66-e527025c279c.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1463.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1466.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1614.jpg"
+      ],
+      "price": 40.0,
+      "stock": 30,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "30 cm",
+        "height": "80 cm"
+      },
+      "advantages": ["Large foliage", "Easy to care for", "Low light tolerant"],
+      "sunlightPreference": "Bright indirect light",
+      "careInstructions": {
+        "tips": "'The Rubber Plant prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Rubber Plant! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Rubber Plant for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Rubber Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Rubber Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "productName": "Ficus Lyrata Bambino -XL",
+      "productDescription": "'The Ficus Lyrata Bambino -XL, also known as the Baby Fiddle Leaf Fig, is a popular indoor plant known for its compact size and beautiful, violin-shaped leaves. Native to Western Africa, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Ficus Lyrata Bambino -XL is a small, compact tree that is perfect for those who are new to houseplants or have limited space.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/ficus-lyrata-bambino-xl-31800064868484.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/ficus-lyrata-bambino-xl-31800064802948.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/ficus-lyrata-bambino-xl-31800064835716.jpg"
+      ],
+      "price": 60.0,
+      "stock": 20,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "35 cm",
+        "height": "100 cm"
+      },
+      "advantages": ["Attractive foliage", "Easy to care for", "Compact size"],
+      "sunlightPreference": "'Bright indirect light",
+      "careInstructions": {
+        "'tips'": "'The Ficus Lyrata Bambino -XL prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Ficus Lyrata Bambino -XL! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Ficus Lyrata Bambino -XL for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Ficus Lyrata Bambino -XL. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Ficus Lyrata Bambino -XL for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "productName": "Ixora (Rugmini) Plant - Yellow",
+      "productDescription": "The Ixora (Rugmini) Plant - Yellow, also known as Jungle Geranium, is a popular outdoor plant known for its vibrant yellow flowers. Native to South India, it's an excellent choice for gardens and outdoor spaces because it adds a pop of color and attracts butterflies. The Ixora (Rugmini) Plant - Yellow is a small, compact shrub that can grow up to 4 feet tall.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/GroPot_4bb547a4-bf17-4cd8-905d-c9f5c103ffa3.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/9_9337df35-3d49-4418-90a1-a8f532c289e9.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1104_320da06a-ead4-4e92-8ee6-c357a0485cd3.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1107_cac62847-eb84-4583-b02f-26587ed4e3b4.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1608_3a12ddb1-dd04-4105-8e54-614aae74588c.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1843_572492bc-dd3f-4dac-988c-06fec9dbb59b.jpg"
+      ],
+      "price": 25.0,
+      "stock": 30,
+      "category": ["Outdoor", "Tropical"],
+      "dimensions": {
+        "diameter": "20 cm",
+        "height": "40 cm"
+      },
+      "advantages": [
+        "Vibrant flowers",
+        "Attracts butterflies",
+        "Easy to care for"
+      ],
+      "sunlightPreference": "'Full sun to partial shade",
+      "careInstructions": {
+        "'tips'": "'The Ixora (Rugmini) Plant - Yellow prefers full sun to partial shade and well-draining soil. It should be watered regularly, but be careful not to overwater as this can lead to root rot. During the growing season, feed the plant once a month with a balanced fertilizer."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Ixora (Rugmini) Plant - Yellow! It's easy to care for and the flowers are so vibrant."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Ixora (Rugmini) Plant - Yellow for a few months now and it's still blooming. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my garden."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Ixora (Rugmini) Plant - Yellow. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Ixora (Rugmini) Plant - Yellow for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "productName": "'Ficus Moclame Plant - XL",
+      "productDescription": "'The Ficus Moclame Plant - XL is a popular indoor plant known for its dense, glossy foliage. Native to Southeast Asia, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Ficus Moclame Plant - XL is a small, compact tree that can grow up to 10 feet tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/ficus-moclame-plant-xl-32169671590020.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/ficus-moclame-plant-xl-32169671557252.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/ficus-moclame-plant-xl-32169671524484.jpg"
+      ],
+      "price": 60.0,
+      "stock": 20,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "35 cm",
+        "height": "100 cm"
+      },
+      "advantages": ["Dense foliage", "Easy to care for", "Low light tolerant"],
+      "sunlightPreference": "'Bright indirect light",
+      "careInstructions": {
+        "'tips'": "'The Ficus Moclame Plant - XL prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Ficus Moclame Plant - XL! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Ficus Moclame Plant - XL for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Ficus Moclame Plant - XL. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Ficus Moclame Plant - XL for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "productName": "Wandering Jew With Hanging Pot",
+      "productDescription": "The Wandering Jew With Hanging Pot is a popular indoor plant known for its trailing vines and beautiful, variegated leaves. Native to Central and South America, it's an excellent choice for indoor spaces because it adds a touch of nature and requires minimal care. The Wandering Jew With Hanging Pot is a fast-growing plant that can trail up to 6 feet long.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/wandering-jew-with-hanging-pot-31818367926404.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/wandering-jew-with-hanging-pot-31818367828100.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/wandering-jew-with-hanging-pot-31818367729796.jpg"
+      ],
+      "price": 30.0,
+      "stock": 25,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "20 cm",
+        "height": "60 cm"
+      },
+      "advantages": ["Trailing vines", "Easy to care for", "Fast-growing"],
+      "sunlightPreference": "'Bright indirect light",
+      "careInstructions": {
+        "'tips'": "'The Wandering Jew With Hanging Pot prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Wandering Jew With Hanging Pot! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Wandering Jew With Hanging Pot for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Wandering Jew With Hanging Pot. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Wandering Jew With Hanging Pot for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "productName": "'Kalanchoe Plant - Red",
+      "productDescription": "'The Kalanchoe Plant - Red is a popular indoor plant known for its vibrant red flowers. Native to Madagascar, it's an excellent choice for indoor spaces because it adds a pop of color and requires minimal care. The Kalanchoe Plant - Red is a small, compact shrub that can grow up to 2 feet tall.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/GroPot_1c9a41b5-0540-4d04-a753-9092be7c96fc.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1601.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1098.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_1100.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/6_0940f922-cc3c-4ac6-8b1a-dc90b7277819.jpg"
+      ],
+      "price": 25.0,
+      "stock": 30,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "'diameter'": "'20 cm",
+        "'height'": "'40 cm"
+      },
+      "'advantages'": [
+        "'Vibrant flowers",
+        "'Easy to care for",
+        "'Compact size"
+      ],
+      "'sunlightPreference'": "'Full sun to partial shade",
+      "'careInstructions'": {
+        "'tips'": "'The Kalanchoe Plant - Red prefers full sun to partial shade and well-draining soil. It should be watered regularly, but be careful not to overwater as this can lead to root rot. During the growing season, feed the plant once a month with a balanced fertilizer."
+      },
+      "'userReviews'": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Kalanchoe Plant - Red! It's easy to care for and the flowers are so vibrant."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Kalanchoe Plant - Red for a few months now and it's still blooming. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Kalanchoe Plant - Red. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Kalanchoe Plant - Red for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+
+    {
+      "id": "16",
+      "productName": "Netted Ficus Tree",
+      "productDescription": "The Netted Ficus Tree is a popular indoor plant known for its large, glossy foliage and easy care. Native to Southeast Asia, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Netted Ficus Tree is a robust plant that can grow up to 10 feet tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/netted-ficus-tree-32169816686724.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/netted-ficus-tree-32169816719492.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/netted-ficus-tree-32169816752260.jpg"
+      ],
+      "price": 50.0,
+      "stock": 20,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "30 cm",
+        "height": "80 cm"
+      },
+      "advantages": ["Large foliage", "Easy to care for", "Low light tolerant"],
+      "sunlightPreference": "'Bright indirect light",
+      "careInstructions": {
+        "'tips'": "'The Netted Ficus Tree prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Netted Ficus Tree! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Netted Ficus Tree for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Netted Ficus Tree. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Netted Ficus Tree for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "productName": "'Thuja Plant - XL",
+      "productDescription": "'The Thuja Plant - XL is a popular outdoor plant known for its dense, evergreen foliage. Native to North America, it's an excellent choice for gardens and outdoor spaces because it adds a touch of nature and requires minimal care. The Thuja Plant - XL is a robust plant that can grow up to 20 feet tall outdoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/thuja-plant-xl-32070937837700.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/thuja-plant-xl-32070937936004.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/thuja-plant-xl-32132126736516.png"
+      ],
+      "price": 60.0,
+      "stock": 20,
+      "category": ["Outdoor", "Evergreen"],
+      "dimensions": {
+        "'diameter'": "'35 cm",
+        "'height'": "'100 cm"
+      },
+      "'advantages'": [
+        "'Dense foliage",
+        "'Easy to care for",
+        "'Low light tolerant"
+      ],
+      "'sunlightPreference'": "'Full sun",
+      "'careInstructions'": {
+        "'tips'": "'The Thuja Plant - XL prefers full sun but can tolerate partial shade. It prefers well-draining soil and should be watered regularly, but be careful not to overwater as this can lead to root rot. During the growing season, feed the plant once a month with a balanced fertilizer."
+      },
+      "'userReviews'": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Thuja Plant - XL! It's easy to care for and looks great in my garden."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Thuja Plant - XL for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my garden."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Thuja Plant - XL. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Thuja Plant - XL for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "productName": "Philodendron Melinonii Green - Large",
+      "productDescription": "The Philodendron Melinonii Green - Large is a popular indoor plant known for its large, glossy foliage and easy care. Native to South America, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Philodendron Melinonii Green - Large is a robust plant that can grow up to 10 feet tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/files/AImage_9.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/Detail_1_d0642361-f2a5-4a18-a5cf-5385356bbd36.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/Topangle_1.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/SizemeUp_7.jpg"
+      ],
+      "price": 50.0,
+      "stock": 20,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "diameter": "30 cm",
+        "height": "80 cm"
+      },
+      "advantages": ["Large foliage", "Easy to care for", "Low light tolerant"],
+      "sunlightPreference": "'Bright indirect light",
+      "careInstructions": {
+        "'tips'": "'The Philodendron Melinonii Green - Large prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "userReviews": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Philodendron Melinonii Green - Large! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Philodendron Melinonii Green - Large for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Philodendron Melinonii Green - Large. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Philodendron Melinonii Green - Large for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "productName": "'Money Plant Variegated with Moss Stick",
+      "productDescription": "'The Money Plant Variegated with Moss Stick is a popular indoor plant known for its variegated leaves and easy care. Native to Southeast Asia, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Money Plant Variegated with Moss Stick is a climbing plant that can grow up to 10 feet tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/money-plant-variegated-with-moss-stick-32124265103492.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/money-plant-variegated-with-moss-stick-32124265201796.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/money-plant-variegated-with-moss-stick-32124265136260.jpg"
+      ],
+      "price": 40.0,
+      "stock": 30,
+      "category": ["Indoor", "Tropical"],
+      "dimensions": {
+        "'diameter'": "'20 cm",
+        "'height'": "'60 cm"
+      },
+      "'advantages'": [
+        "'Variegated leaves",
+        "'Easy to care for",
+        "'Low light tolerant"
+      ],
+      "'sunlightPreference'": "'Bright indirect light",
+      "'careInstructions'": {
+        "'tips'": "'The Money Plant Variegated with Moss Stick prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer diluted to half strength."
+      },
+      "'userReviews'": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Money Plant Variegated with Moss Stick! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Money Plant Variegated with Moss Stick for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Money Plant Variegated with Moss Stick. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Money Plant Variegated with Moss Stick for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "productName": "Aloe Vera Mini Plant",
+      "productDescription": "The Aloe Vera Mini Plant is a popular indoor plant known for its medicinal properties and easy care. Native to the Arabian Peninsula, it's an excellent choice for indoor spaces because it tolerates low light and requires minimal care. The Aloe Vera Mini Plant is a small, compact plant that can grow up to 2 feet tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/products/GroPot_a7daef94-5668-4941-8d88-03112485f554.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_0038.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_0016.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_0084.jpg",
+        "https://www.ugaoo.com/cdn/shop/products/DSC_9979.jpg"
+      ],
+      "price": 15.0,
+      "stock": 30,
+      "category": ["Indoor", "Medicinal"],
+      "dimensions": {
+        "'diameter'": "'10 cm",
+        "'height'": "'20 cm"
+      },
+      "'advantages'": [
+        "'Medicinal properties",
+        "'Easy to care for",
+        "'Low light tolerant"
+      ],
+      "'sunlightPreference'": "'Bright indirect light",
+      "'careInstructions'": {
+        "'tips'": "'The Aloe Vera Mini Plant prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered when the top inch of soil becomes dry. During the growing season, feed the plant once a month with a balanced fertilizer."
+      },
+      "'userReviews'": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Aloe Vera Mini Plant! It's easy to care for and has many medicinal uses."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Aloe Vera Mini Plant for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Aloe Vera Mini Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Aloe Vera Mini Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "productName": "'Echeveria Hybrid Plant",
+      "productDescription": "'The Echeveria Hybrid Plant is a popular indoor plant known for its rosette-shaped leaves and easy care. Native to Central America, it's an excellent choice for indoor spaces because it adds a touch of nature and requires minimal care. The Echeveria Hybrid Plant is a small, compact plant that can grow up to 1 foot tall indoors under the right conditions.",
+      "productImage": [
+        "https://www.ugaoo.com/cdn/shop/files/DSC_9837.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/DSC_0178.jpg",
+        "https://www.ugaoo.com/cdn/shop/files/DSC_0235.jpg"
+      ],
+      "price": 20.0,
+      "stock": 25,
+      "category": ["Indoor", "Succulent"],
+      "dimensions": {
+        "'diameter'": "'10 cm",
+        "'height'": "'15 cm"
+      },
+      "'advantages'": [
+        "'Attractive foliage",
+        "'Easy to care for",
+        "'Low water requirement"
+      ],
+      "'sunlightPreference'": "'Bright indirect light",
+      "'careInstructions'": {
+        "'tips'": "'The Echeveria Hybrid Plant prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered sparingly, allowing the soil to dry out between waterings."
+      },
+      "'userReviews'": [
+        {
+          "userName": "Alice Johnson",
+          "rating": 5,
+          "review": "'m so happy with my Echeveria Hybrid Plant! It's easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Bob Williams",
+          "rating": 4,
+          "review": "'ve had my Echeveria Hybrid Plant for a few months now and it's still looking great. It's a great plant for beginners."
+        },
+        {
+          "userName": "Charlie Brown",
+          "rating": 5,
+          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
+        },
+        {
+          "userName": "Diana Prince",
+          "rating": 4,
+          "review": "'m really happy with my Echeveria Hybrid Plant. It's grown quite a bit since I got it and it's very easy to care for."
+        },
+        {
+          "userName": "Eddie Brock",
+          "rating": 5,
+          "review": "'ve had my Echeveria Hybrid Plant for over a year now and it's still going strong. I highly recommend this plant."
+        }
+      ]
+    }
+  ]
+}
