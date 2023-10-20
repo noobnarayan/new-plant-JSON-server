@@ -1035,59 +1035,6 @@
           "review": "'ve had my Aloe Vera Mini Plant for over a year now and it's still going strong. I highly recommend this plant."
         }
       ]
-    },
-    {
-      "id": "21",
-      "productName": "'Echeveria Hybrid Plant",
-      "productDescription": "'The Echeveria Hybrid Plant is a popular indoor plant known for its rosette-shaped leaves and easy care. Native to Central America, it's an excellent choice for indoor spaces because it adds a touch of nature and requires minimal care. The Echeveria Hybrid Plant is a small, compact plant that can grow up to 1 foot tall indoors under the right conditions.",
-      "productImage": [
-        "https://www.ugaoo.com/cdn/shop/files/DSC_9837.jpg",
-        "https://www.ugaoo.com/cdn/shop/files/DSC_0178.jpg",
-        "https://www.ugaoo.com/cdn/shop/files/DSC_0235.jpg"
-      ],
-      "price": 20.0,
-      "stock": 25,
-      "category": ["Indoor", "Succulent"],
-      "dimensions": {
-        "'diameter'": "'10 cm",
-        "'height'": "'15 cm"
-      },
-      "'advantages'": [
-        "'Attractive foliage",
-        "'Easy to care for",
-        "'Low water requirement"
-      ],
-      "'sunlightPreference'": "'Bright indirect light",
-      "'careInstructions'": {
-        "'tips'": "'The Echeveria Hybrid Plant prefers bright, indirect light but can tolerate lower light conditions. It prefers well-draining soil and should be watered sparingly, allowing the soil to dry out between waterings."
-      },
-      "'userReviews'": [
-        {
-          "userName": "Alice Johnson",
-          "rating": 5,
-          "review": "'m so happy with my Echeveria Hybrid Plant! It's easy to care for and looks great in my living room."
-        },
-        {
-          "userName": "Bob Williams",
-          "rating": 4,
-          "review": "'ve had my Echeveria Hybrid Plant for a few months now and it's still looking great. It's a great plant for beginners."
-        },
-        {
-          "userName": "Charlie Brown",
-          "rating": 5,
-          "review": "'m new to gardening and this plant was a great choice for me. It's very easy to care for and looks great in my living room."
-        },
-        {
-          "userName": "Diana Prince",
-          "rating": 4,
-          "review": "'m really happy with my Echeveria Hybrid Plant. It's grown quite a bit since I got it and it's very easy to care for."
-        },
-        {
-          "userName": "Eddie Brock",
-          "rating": 5,
-          "review": "'ve had my Echeveria Hybrid Plant for over a year now and it's still going strong. I highly recommend this plant."
-        }
-      ]
     }
   ]
 }
