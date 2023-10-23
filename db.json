@@ -13,7 +13,7 @@
       ],
       "price": 35.0,
       "stock": 25,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "Houseplants"],
       "dimensions": {
         "diameter": "30 cm",
         "height": "60 cm"
@@ -64,7 +64,7 @@
       ],
       "price": 40.0,
       "stock": 30,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "Houseplants"],
       "dimensions": {
         "diameter": "35 cm",
         "height": "70 cm"
@@ -114,7 +114,7 @@
       ],
       "price": 45.0,
       "stock": 35,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "flower_pot"],
       "dimensions": {
         "diameter": "20 cm",
         "height": "30 cm"
@@ -169,7 +169,7 @@
       ],
       "price": 15.0,
       "stock": 40,
-      "category": ["Indoor", "Succulent"],
+      "category": ["Indoor", "Succulent", "Houseplants"],
       "dimensions": {
         "diameter": "10 cm",
         "height": "15 cm"
@@ -220,7 +220,7 @@
       ],
       "price": 20.0,
       "stock": 30,
-      "category": ["Indoor", "Outdoor"],
+      "category": ["Indoor", "Outdoor", "Houseplants"],
       "dimensions": {
         "diameter": "15 cm",
         "height": "30 cm"
@@ -270,7 +270,7 @@
       ],
       "price": 50.0,
       "stock": 20,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "houseplant_sets"],
       "dimensions": {
         "diameter": "30 cm",
         "height": "80 cm"
@@ -320,7 +320,7 @@
       ],
       "price": 55.0,
       "stock": 25,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "houseplant_sets"],
       "dimensions": {
         "diameter": "35 cm",
         "height": "100 cm"
@@ -372,7 +372,7 @@
       ],
       "price": 20.0,
       "stock": 30,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "houseplant_sets"],
       "dimensions": {
         "diameter": "10 cm",
         "height": "30 cm"
@@ -428,7 +428,7 @@
       ],
       "price": 60.0,
       "stock": 20,
-      "category": ["Indoor", "Bonsai"],
+      "category": ["Indoor", "Bonsai", "houseplant_sets"],
       "dimensions": {
         "diameter": "15 cm",
         "height": "25 cm"
@@ -479,7 +479,7 @@
       ],
       "price": 40.0,
       "stock": 30,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "houseplant_sets"],
       "dimensions": {
         "diameter": "30 cm",
         "height": "80 cm"
@@ -528,7 +528,7 @@
       ],
       "price": 60.0,
       "stock": 20,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "Houseplants"],
       "dimensions": {
         "diameter": "35 cm",
         "height": "100 cm"
@@ -580,7 +580,7 @@
       ],
       "price": 25.0,
       "stock": 30,
-      "category": ["Outdoor", "Tropical"],
+      "category": ["Outdoor", "Tropical", "flower_pot"],
       "dimensions": {
         "diameter": "20 cm",
         "height": "40 cm"
@@ -633,7 +633,7 @@
       ],
       "price": 60.0,
       "stock": 20,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "Houseplants"],
       "dimensions": {
         "diameter": "35 cm",
         "height": "100 cm"
@@ -682,7 +682,7 @@
       ],
       "price": 30.0,
       "stock": 25,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "houseplant_sets"],
       "dimensions": {
         "diameter": "20 cm",
         "height": "60 cm"
@@ -733,7 +733,7 @@
       ],
       "price": 25.0,
       "stock": 30,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "flower_pot"],
       "dimensions": {
         "'diameter'": "'20 cm",
         "'height'": "'40 cm"
@@ -787,7 +787,7 @@
       ],
       "price": 50.0,
       "stock": 20,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "Houseplants"],
       "dimensions": {
         "diameter": "30 cm",
         "height": "80 cm"
@@ -836,7 +836,7 @@
       ],
       "price": 60.0,
       "stock": 20,
-      "category": ["Outdoor", "Evergreen"],
+      "category": ["Outdoor", "Evergreen", "Houseplants"],
       "dimensions": {
         "'diameter'": "'35 cm",
         "'height'": "'100 cm"
@@ -890,7 +890,7 @@
       ],
       "price": 50.0,
       "stock": 20,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "Houseplants"],
       "dimensions": {
         "diameter": "30 cm",
         "height": "80 cm"
@@ -939,7 +939,7 @@
       ],
       "price": 40.0,
       "stock": 30,
-      "category": ["Indoor", "Tropical"],
+      "category": ["Indoor", "Tropical", "Houseplants"],
       "dimensions": {
         "'diameter'": "'20 cm",
         "'height'": "'60 cm"
@@ -994,7 +994,7 @@
       ],
       "price": 15.0,
       "stock": 30,
-      "category": ["Indoor", "Medicinal"],
+      "category": ["Indoor", "Medicinal", "Houseplants"],
       "dimensions": {
         "'diameter'": "'10 cm",
         "'height'": "'20 cm"
